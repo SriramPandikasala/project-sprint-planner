@@ -1,0 +1,6 @@
+[submodule "ui"]
+	path = ui
+	url = https://github.com/SriramPandikasala/project-sprint-planner-ui.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SriramPandikasala/project-sprint-planner-be.git
