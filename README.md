@@ -5,9 +5,9 @@
 
 ## Run both UI and backend application
 
+```shell
+    npm install
+    git submodule update --init
+    npm start
 ```
-npm start
-```
-
-This also installs dependency
 
